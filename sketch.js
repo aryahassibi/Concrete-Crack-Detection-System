@@ -1,7 +1,7 @@
 let img;
 let val;
 function preload() {
-    img = loadImage('wall.png');
+    img = loadImage('wall 2.png');
 }
 
 function setup() {
@@ -15,7 +15,7 @@ function setup() {
 function draw() {
     //background(220);
 
-    //image(img, 0, 0);
+    // image(img, 0, 0);
     if (slider.value() != val) {
         console.log(slider.value())
         val = slider.value()
@@ -26,6 +26,7 @@ function draw() {
                 set(i, j, c)
             }
         }
+
         updatePixels();
     }
 }
@@ -33,8 +34,8 @@ function draw() {
 function rgb_to_bw(r, g, b, threshold) {
     let avg = (r + b + g) / 3
     if (avg < threshold) {
-        return 255
+        return color(255, 100, 100)
     } else {
-        return 0
+        return color(r, g, b, 75)
     }
 }
