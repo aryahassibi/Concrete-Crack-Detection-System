@@ -54,8 +54,6 @@ function modelSaved() {
     console.log('Model is saved. (in Downloads Directory)')
 }
 
-let indexOfTheCurrentImageSet = 1
-
 function imageReady() {
     loadedImageCount += 1;
     if (loadedImageCount == numberOfTrainingSetImages * 2) {
@@ -122,7 +120,7 @@ function setup() {
     createCanvas(canvasSize, canvasSize);
     mobilenet = ml5.featureExtractor('MobileNet', modelReady);
     classifier = mobilenet.classification();
-    addImagesToModel(numberOfTrainingSetImages, indexOfTheCurrentImageSet)
+    addImagesToModel(numberOfTrainingSetImages, 1)
 }
 
 let imageSegments = {};
