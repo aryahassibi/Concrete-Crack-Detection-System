@@ -5,7 +5,7 @@ let testImagePath = 'test images/wall 4.jpg';
 let classifier;
 let loadedImageCount = 0;
 let modelIsReady = false;
-const numberOfTrainingSetImages = 100;
+const numberOfTrainingSetImages = 500;
 const gridSize = 5; // n by n
 const modelImageSize = 50;
 const gridOffset = 10;
@@ -50,6 +50,12 @@ function modelReady() {
     console.log('Model is ready to be trained.');
 }
 
+function modelSaved() {
+    console.log('Model is saved. (in Downloads Directory)')
+}
+
+let indexOfTheCurrentImageSet = 1
+
 function imageReady() {
     loadedImageCount += 1;
     if (loadedImageCount == numberOfTrainingSetImages * 2) {
@@ -62,6 +68,7 @@ function whileTraining(loss) {
     if (loss == null) {
         console.log('Model is trained with the data.');
         modelIsReady = true;
+        classifier.save(modelSaved)
         classifyImageSegments();
     }
 }
@@ -115,7 +122,7 @@ function setup() {
     createCanvas(canvasSize, canvasSize);
     mobilenet = ml5.featureExtractor('MobileNet', modelReady);
     classifier = mobilenet.classification();
-    addImagesToModel(numberOfTrainingSetImages, 1)
+    addImagesToModel(numberOfTrainingSetImages, indexOfTheCurrentImageSet)
 }
 
 let imageSegments = {};
