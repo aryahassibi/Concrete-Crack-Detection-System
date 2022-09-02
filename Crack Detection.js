@@ -148,7 +148,7 @@ function setup() {
         // }
     };
 
-    capture = createCapture(constraints);
+    capture = createCapture(VIDEO);
     snapButton = createButton('snap');
     snapButton.mousePressed(takeSnap);
     refreshButton = createButton('refresh');
