@@ -22,9 +22,9 @@ function highlight(canvas, threshold) {
 
 function preload() {
     img = loadImage(imgPath, img => {
+        img.resize(500, 500)
         img.filter(GRAY)
         img.loadPixels();
-        img.resize(500, 500)
     });
 }
 
