@@ -1,5 +1,5 @@
 let testImage;
-let testImagePath = 'test images/wall 5.jpg';
+// let testImagePath = 'images/crack.jpg';
 // let testImagePath = 'Concrete Crack Images for Classification/Positive/00024.jpg';
 
 let classifier;
@@ -120,11 +120,11 @@ function drawImageSegments() {
 function preload() {
     loadingIcon = createImg(loadingIconGifPath, 'Loading Icon').size(loadingIconSize, loadingIconSize).hide();
     refreshButtonIcon = loadImage(refreshIconPath)
-    testImage = loadImage(testImagePath, img => {
-        img.resize(testImageSize, testImageSize);
-        img.filter(GRAY);
-        img.loadPixels();
-    });
+    // testImage = loadImage(testImagePath, img => {
+    //     img.resize(testImageSize, testImageSize);
+    //     img.filter(GRAY);
+    //     img.loadPixels();
+    // });
 }
 let picture;
 let cameraButon;
@@ -134,8 +134,7 @@ function setup() {
     picture = createGraphics(canvasSize, canvasSize);
     panel = createGraphics(panelWidth, panelHeight);
     background(30);
-    imageAverageLevel = (testImage.pixels.reduce((a, b) => a + b, 0) / testImage.pixels.length * 4 - 255) / 3;
-    threshold = imageAverageLevel * 0.65;
+
 
     var constraints = {
         audio: false,
@@ -189,6 +188,8 @@ function takeSnap() {
     testImage.resize(testImageSize, testImageSize);
     testImage.filter(GRAY);
     testImage.loadPixels();
+    imageAverageLevel = (testImage.pixels.reduce((a, b) => a + b, 0) / testImage.pixels.length * 4 - 255) / 3;
+    threshold = imageAverageLevel * 0.65;
 
     classifyImageSegments();
 }
@@ -248,8 +249,6 @@ function draw() {
 function windowResized() {
     resizeCanvas(windowWidth, windowHeight);
     loadingIcon.position((width - loadingIconSize) / 2, (height - loadingIconSize) / 2);
-    console.log(button.width)
-
 }
 
 
@@ -259,7 +258,6 @@ function mousePressed() {
             mouseX < (width + cameraButton.width * (height / panelHeight)) / 2 &&
             mouseY > (panel.height * 0.85 - cameraButton.height / 2) * (height / panelHeight) &&
             mouseY < (panel.height * 0.85 + cameraButton.height / 2) * (height / panelHeight)) {
-            console.log("hi")
             cameraButton = circleButton(150);
             takeSnap();
         }
@@ -268,7 +266,6 @@ function mousePressed() {
             mouseX < (width + cameraButton.width * (width / panelWidth)) / 2 &&
             mouseY > (panel.height * 0.85 - cameraButton.height / 2) * (width / panelWidth) + (height - panel.height * (width / panelWidth)) / 2 &&
             mouseY < (panel.height * 0.85 + cameraButton.height / 2) * (width / panelWidth) + (height - panel.height * (width / panelWidth)) / 2) {
-            console.log("hi")
             cameraButton = circleButton(150);
             takeSnap();
         }

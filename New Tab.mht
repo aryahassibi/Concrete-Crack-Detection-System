@@ -1,0 +1,765 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: chrome://newtab/
+Subject: New Tab
+Date: Fri, 2 Sep 2022 21:40:13 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--on9Exmvw0glVyfdQKLIqN5Mp4KIfoSsyX0jR8TA5gQ----"
+
+
+------MultipartBoundary--on9Exmvw0glVyfdQKLIqN5Mp4KIfoSsyX0jR8TA5gQ----
+Content-Type: text/html
+Content-ID: <frame-2A12BDD7AEE21B35B63D1765A1EA0175@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome://newtab/
+
+<!DOCTYPE html><html dir=3D"ltr" hascustombackground=3D"false" lang=3D"en" =
+class=3D"md"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css=
+-3de79916-9cbf-4bb6-9720-72434963a63d@mhtml.blink" /><link rel=3D"styleshee=
+t" type=3D"text/css" href=3D"cid:css-8ce89773-7b0e-4dd6-9a86-6e2d42bb1684@m=
+html.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-24=
+e78a1b-4f52-4244-a9c2-4eb33e27b16d@mhtml.blink" />
+
+<meta name=3D"color-scheme" content=3D"light dark">
+<title>New Tab</title>
+<link rel=3D"icon" type=3D"image/svg+xml" href=3D"data:image/svg+xml;base64=
+,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZX=
+dCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBmaWxsPSIjNDU1QTY0Ij48cGF0aCBmaWxsPSJub=
+25lIiBkPSJNMCAwaDI0djI0SDB6Ii8+PHBhdGggZD0iTTMgMTFoMTh2MUgzem0xNC42Mi0xLTIu=
+MjktNi4xYy0uMTktLjUtLjc0LS43Ny0xLjI1LS42TDEyIDRsLTIuMDktLjdjLS41MS0uMTctMS4=
+wNi4xLTEuMjUuNkw2LjM4IDEwaDExLjI0em0tMS4xMiAzYy0xLjY2IDAtMy4wNCAxLjE2LTMuNC=
+AyLjcxLS44NC0uMzYtMS42Mi0uMjYtMi4yLS4wMUEzLjUwMyAzLjUwMyAwIDAgMCA3LjUgMTNDN=
+S41NyAxMyA0IDE0LjU3IDQgMTYuNVM1LjU3IDIwIDcuNSAyMGMxLjg0IDAgMy4zMy0xLjQyIDMu=
+NDctMy4yMi4zLS4yMSAxLjA5LS42IDIuMDYuMDIuMTYgMS43OSAxLjY0IDMuMiAzLjQ3IDMuMiA=
+xLjkzIDAgMy41LTEuNTcgMy41LTMuNVMxOC40MyAxMyAxNi41IDEzem0tOSA2YTIuNSAyLjUgMC=
+AwIDEgMC01IDIuNSAyLjUgMCAwIDEgMCA1em05IDBhMi41IDIuNSAwIDAgMSAwLTUgMi41IDIuN=
+SAwIDAgMSAwIDV6Ii8+PC9zdmc+">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width">
+<link id=3D"incognitothemecss" rel=3D"stylesheet" href=3D"chrome://theme/cs=
+s/incognito_tab_theme.css?1662154806590">
+
+<link rel=3D"stylesheet" href=3D"chrome://resources/css/text_defaults_md.cs=
+s">
+
+
+<iron-iconset-svg name=3D"cr20" size=3D"20" style=3D"display: none;">
+  <svg>
+    <defs>
+      <!--
+      Keep these in sorted order by id=3D"". See also http://goo.gl/Y1OdAq
+      -->
+      <g id=3D"domain">
+        <path d=3D"M2,3 L2,17 L11.8267655,17 L13.7904799,17 L18,17 L18,7 L1=
+2,7 L12,3 L2,3 Z M8,13 L10,13 L10,15 L8,15 L8,13 Z M4,13 L6,13 L6,15 L4,15 =
+L4,13 Z M8,9 L10,9 L10,11 L8,11 L8,9 Z M4,9 L6,9 L6,11 L4,11 L4,9 Z M12,9 L=
+16,9 L16,15 L12,15 L12,9 Z M12,11 L14,11 L14,13 L12,13 L12,11 Z M8,5 L10,5 =
+L10,7 L8,7 L8,5 Z M4,5 L6,5 L6,7 L4,7 L4,5 Z">
+        </path>
+      </g>
+      <g id=3D"kite">
+        <path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M4.6327 8.00=
+094L10.3199 2L16 8.00094L10.1848 16.8673C10.0995 16.9873 10.0071 17.1074 9.=
+90047 17.2199C9.42417 17.7225 8.79147 18 8.11611 18C7.44076 18 6.80806 17.7=
+225 6.33175 17.2199C5.85545 16.7173 5.59242 16.0497 5.59242 15.3371C5.59242=
+ 14.977 5.46445 14.647 5.22275 14.3919C4.98104 14.1369 4.66825 14.0019 4.32=
+701 14.0019H4V12.6667H4.32701C5.00237 12.6667 5.63507 12.9442 6.11137 13.44=
+68C6.58768 13.9494 6.85071 14.617 6.85071 15.3296C6.85071 15.6896 6.97867 1=
+6.0197 7.22038 16.2747C7.46209 16.5298 7.77488 16.6648 8.11611 16.6648C8.45=
+735 16.6648 8.77014 16.5223 9.01185 16.2747C9.02396 16.2601 9.03607 16.246 =
+9.04808 16.2319C9.08541 16.1883 9.12176 16.1458 9.15403 16.0947L9.55213 15.=
+4946L4.6327 8.00094ZM10.3199 13.9371L6.53802 8.17116L10.3199 4.1814L14.0963=
+ 8.17103L10.3199 13.9371Z">
+        </path>
+      </g>
+      <g id=3D"menu">
+        <path d=3D"M2 4h16v2H2zM2 9h16v2H2zM2 14h16v2H2z"></path>
+      </g>
+     =20
+  </defs></svg>
+</iron-iconset-svg>
+<iron-iconset-svg name=3D"cr" size=3D"24" style=3D"display: none;">
+  <svg>
+    <defs>
+      <!--
+      These icons are copied from Polymer's iron-icons and kept in sorted o=
+rder.
+      See http://goo.gl/Y1OdAq for instructions on adding additional icons.
+      -->
+      <g id=3D"account-child-invert" viewBox=3D"0 0 48 48">
+        <path d=3D"M24 4c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6 2.69-6 6-=
+6z"></path>
+        <path fill=3D"none" d=3D"M0 0h48v48H0V0z"></path>
+        <circle fill=3D"none" cx=3D"24" cy=3D"26" r=3D"4"></circle>
+        <path d=3D"M24 18c-6.16 0-13 3.12-13 7.23v11.54c0 2.32 2.19 4.33 5.=
+2 5.63 2.32 1 5.12 1.59 7.8 1.59.66 0 1.33-.06 2-.14v-5.2c-.67.08-1.34.14-2=
+ .14-2.63 0-5.39-.57-7.68-1.55.67-2.12 4.34-3.65 7.68-3.65.86 0 1.75.11 2.6=
+.29 2.79.62 5.2 2.15 5.2 4.04v4.47c3.01-1.31 5.2-3.31 5.2-5.63V25.23C37 21.=
+12 30.16 18 24 18zm0 12c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4=
+z">
+        </path>
+      </g>
+      <g id=3D"add">
+        <path d=3D"M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"></path>
+      </g>
+      <g id=3D"arrow-back">
+        <path d=3D"M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20=
+v-2z"></path>
+      </g>
+      <g id=3D"arrow-drop-up">
+        <path d=3D"M7 14l5-5 5 5z">
+      </path></g>
+      <g id=3D"arrow-drop-down">
+        <path d=3D"M7 10l5 5 5-5z"></path>
+      </g>
+      <g id=3D"arrow-forward">
+        <path d=3D"M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8=
+z"></path>
+      </g>
+      <g id=3D"arrow-right">
+        <path d=3D"M10 7l5 5-5 5z"></path>
+      </g>
+     =20
+      <g id=3D"cancel">
+        <path d=3D"M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.=
+53 2 12 2zm5 13.59L15.59 17 12 13.41 8.41 17 7 15.59 10.59 12 7 8.41 8.41 7=
+ 12 10.59 15.59 7 17 8.41 13.41 12 17 15.59z">
+        </path>
+      </g>
+      <g id=3D"check">
+        <path d=3D"M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></pat=
+h>
+      </g>
+      <g id=3D"check-circle">
+        <path d=3D"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.=
+52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z">
+        </path>
+      </g>
+      <g id=3D"chevron-left">
+        <path d=3D"M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"></path>
+      </g>
+      <g id=3D"chevron-right">
+        <path d=3D"M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path>
+      </g>
+      <g id=3D"clear">
+        <path d=3D"M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59=
+ 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z">
+        </path>
+      </g>
+      <g id=3D"close">
+        <path d=3D"M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59=
+ 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z">
+        </path>
+      </g>
+      <g id=3D"computer">
+        <path d=3D"M20 18c1.1 0 1.99-.9 1.99-2L22 6c0-1.1-.9-2-2-2H4c-1.1 0=
+-2 .9-2 2v10c0 1.1.9 2 2 2H0v2h24v-2h-4zM4 6h16v10H4V6z">
+        </path>
+      </g>
+      <g id=3D"delete">
+        <path d=3D"M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-=
+1-1h-5l-1 1H5v2h14V4z"></path>
+      </g>
+      <g id=3D"domain">
+        <path d=3D"M12 7V3H2v18h20V7H12zM6 19H4v-2h2v2zm0-4H4v-2h2v2zm0-4H4=
+V9h2v2zm0-4H4V5h2v2zm4 12H8v-2h2v2zm0-4H8v-2h2v2zm0-4H8V9h2v2zm0-4H8V5h2v2z=
+m10 12h-8v-2h2v-2h-2v-2h2v-2h-2V9h8v10zm-2-8h-2v2h2v-2zm0 4h-2v2h2v-2z">
+        </path>
+      </g>
+      <g id=3D"error">
+        <path d=3D"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.=
+52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z">
+        </path>
+      </g>
+      <g id=3D"error-outline">
+        <path d=3D"M11 15h2v2h-2zm0-8h2v6h-2zm.99-5C6.47 2 2 6.48 2 12s4.47=
+ 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8=
+-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z">
+        </path>
+      </g>
+      <g id=3D"expand-less">
+        <path d=3D"M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"></path>
+      </g>
+      <g id=3D"expand-more">
+        <path d=3D"M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path>
+      </g>
+      <g id=3D"extension">
+        <path d=3D"M20.5 11H19V7c0-1.1-.9-2-2-2h-4V3.5C13 2.12 11.88 1 10.5=
+ 1S8 2.12 8 3.5V5H4c-1.1 0-1.99.9-1.99 2v3.8H3.5c1.49 0 2.7 1.21 2.7 2.7s-1=
+.21 2.7-2.7 2.7H2V20c0 1.1.9 2 2 2h3.8v-1.5c0-1.49 1.21-2.7 2.7-2.7 1.49 0 =
+2.7 1.21 2.7 2.7V22H17c1.1 0 2-.9 2-2v-4h1.5c1.38 0 2.5-1.12 2.5-2.5S21.88 =
+11 20.5 11z">
+        </path>
+      </g>
+      <g id=3D"file-download">
+        <path d=3D"M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"></path>
+      </g>
+     =20
+      <g id=3D"fullscreen">
+        <path d=3D"M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2=
+v3zM14 5v2h3v3h2V5h-5z"></path>
+      </g>
+      <g id=3D"group">
+        <path d=3D"M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.=
+34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 =
+8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 =
+0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.=
+5-7-3.5z">
+        </path>
+      </g>
+      <g id=3D"help-outline">
+        <path d=3D"M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 =
+10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3=
+.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h=
+2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z">
+        </path>
+      </g>
+      <g id=3D"info">
+        <path d=3D"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.=
+52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z">
+        </path>
+      </g>
+      <g id=3D"info-outline">
+        <path d=3D"M11 17h2v-6h-2v6zm1-15C6.48 2 2 6.48 2 12s4.48 10 10 10 =
+10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3=
+.59 8-8 8zM11 9h2V7h-2v2z">
+        </path>
+      </g>
+      <g id=3D"insert-drive-file">
+        <path d=3D"M6 2c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 =
+0 2-.9 2-2V8l-6-6H6zm7 7V3.5L18.5 9H13z">
+        </path>
+      </g>
+      <g id=3D"location-on">
+        <path d=3D"M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3=
+.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.=
+5 2.5-1.12 2.5-2.5 2.5z">
+        </path>
+      </g>
+      <g id=3D"mic">
+        <path d=3D"M12 14c1.66 0 2.99-1.34 2.99-3L15 5c0-1.66-1.34-3-3-3S9 =
+3.34 9 5v6c0 1.66 1.34 3 3 3zm5.3-3c0 3-2.54 5.1-5.3 5.1S6.7 14 6.7 11H5c0 =
+3.41 2.72 6.23 6 6.72V21h2v-3.28c3.28-.48 6-3.3 6-6.72h-1.7z">
+        </path>
+      </g>
+      <g id=3D"more-vert">
+        <path d=3D"M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1=
+.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9=
+ 2-2-.9-2-2-2z">
+        </path>
+      </g>
+      <g id=3D"open-in-new">
+        <path d=3D"M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1=
+.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"=
+>
+        </path>
+      </g>
+      <g id=3D"person">
+        <path d=3D"M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4=
+ 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z">
+        </path>
+      </g>
+      <g id=3D"phonelink"><path d=3D"M4 6h18V4H4c-1.1 0-2 .9-2 2v11H0v3h14v=
+-3H4V6zm19 2h-6c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h6c.55 0 1-.45 1-1V9c0-.5=
+5-.45-1-1-1zm-1 9h-4v-7h4v7z"></path></g>
+      <g id=3D"print">
+        <path d=3D"M19 8H5c-1.66 0-3 1.34-3 3v6h4v4h12v-4h4v-6c0-1.66-1.34-=
+3-3-3zm-3 11H8v-5h8v5zm3-7c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1zm=
+-1-9H6v4h12V3z">
+        </path>
+      </g>
+      <g id=3D"schedule"><path d=3D"M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.9=
+9 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58=
+-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67z"></pat=
+h></g>
+      <g id=3D"search">
+        <path d=3D"M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.=
+91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.=
+28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 =
+7.01 14 9.5 11.99 14 9.5 14z">
+        </path>
+      </g>
+      <g id=3D"security">
+        <path d=3D"M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12=
+V5l-9-4zm0 10.99h7c-.53 4.12-3.28 7.79-7 8.94V12H5V6.3l7-3.11v8.8z">
+        </path>
+      </g>
+     =20
+      <!-- The <g> IDs are exposed as global variables in Vulcanized mode, =
+which
+        conflicts with the "settings" namespace of MD Settings. Using an "_=
+icon"
+        suffix prevents the naming conflict. -->
+      <g id=3D"settings_icon">
+        <path d=3D"M19.43 12.98c.04-.32.07-.64.07-.98s-.03-.66-.07-.98l2.11=
+-1.65c.19-.15.24-.42.12-.64l-2-3.46c-.12-.22-.39-.3-.61-.22l-2.49 1c-.52-.4=
+-1.08-.73-1.69-.98l-.38-2.65C14.46 2.18 14.25 2 14 2h-4c-.25 0-.46.18-.49.4=
+2l-.38 2.65c-.61.25-1.17.59-1.69.98l-2.49-1c-.23-.09-.49 0-.61.22l-2 3.46c-=
+.13.22-.07.49.12.64l2.11 1.65c-.04.32-.07.65-.07.98s.03.66.07.98l-2.11 1.65=
+c-.19.15-.24.42-.12.64l2 3.46c.12.22.39.3.61.22l2.49-1c.52.4 1.08.73 1.69.9=
+8l.38 2.65c.03.24.24.42.49.42h4c.25 0 .46-.18.49-.42l.38-2.65c.61-.25 1.17-=
+.59 1.69-.98l2.49 1c.23.09.49 0 .61-.22l2-3.46c.12-.22.07-.49-.12-.64l-2.11=
+-1.65zM12 15.5c-1.93 0-3.5-1.57-3.5-3.5s1.57-3.5 3.5-3.5 3.5 1.57 3.5 3.5-1=
+.57 3.5-3.5 3.5z">
+        </path>
+      </g>
+      <g id=3D"star">
+        <path d=3D"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.1=
+9 8.63 2 9.24l5.46 4.73L5.82 21z"></path>
+      </g>
+      <g id=3D"sync">
+        <path d=3D"M12 4V1L8 5l4 4V6c3.31 0 6 2.69 6 6 0 1.01-.25 1.97-.7 2=
+.8l1.46 1.46C19.54 15.03 20 13.57 20 12c0-4.42-3.58-8-8-8zm0 14c-3.31 0-6-2=
+.69-6-6 0-1.01.25-1.97.7-2.8L5.24 7.74C4.46 8.97 4 10.43 4 12c0 4.42 3.58 8=
+ 8 8v3l4-4-4-4v3z">
+        </path>
+      </g>
+      <g id=3D"videocam">
+        <path d=3D"M17 10.5V7c0-.55-.45-1-1-1H4c-.55 0-1 .45-1 1v10c0 .55.4=
+5 1 1 1h12c.55 0 1-.45 1-1v-3.5l4 4v-11l-4 4z">
+        </path>
+      </g>
+      <g id=3D"warning">
+        <path d=3D"M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z"></pa=
+th>
+      </g>
+    </defs>
+  </svg>
+</iron-iconset-svg>
+
+<custom-style>
+ =20
+</custom-style>
+
+<custom-style>
+
+</custom-style>
+</head>
+<body>
+<div class=3D"content">
+  <div class=3D"icon" role=3D"presentation" alt=3D""></div>
+  <h1>You=E2=80=99ve gone Incognito</h1>
+  <p id=3D"subtitle">
+    <span>Now you can browse privately, and other people who use this devic=
+e won=E2=80=99t see your activity. However, downloads, bookmarks and readin=
+g list items will be saved.</span>
+    <a class=3D"learn-more-button" href=3D"https://support.google.com/chrom=
+e/?p=3Dincognito">Learn more</a>
+  </p>
+  <div id=3D"bulletpoints-wrapper">
+    <div class=3D"bulletpoints first">Chrome <em>won=E2=80=99t save</em> th=
+e following information:
+          <ul>
+            <li>Your browsing history
+            </li><li>Cookies and site data
+            </li><li>Information entered in forms
+          </li></ul></div>
+    <div class=3D"bulletpoints">Your activity <em>might still be visible</e=
+m> to:
+        <ul>
+          <li>Websites you visit
+          </li><li>Your employer or school
+          </li><li>Your internet service provider
+        </li></ul></div>
+  </div>
+  <div id=3D"cookie-controls">
+    <div id=3D"cookie-controls-description">
+      <em>Block third-party cookies</em>
+      When on, sites can't use cookies that track you across the web. Featu=
+res on some sites may break.
+    </div>
+   =20
+    <cr-toggle id=3D"cookie-controls-toggle" aria-label=3D"Block third-part=
+y cookies" checked=3D"" dark=3D"" aria-disabled=3D"false" aria-pressed=3D"t=
+rue" role=3D"button" tabindex=3D"0"><template shadowmode=3D"open"><!--_html=
+_template_start_--><span id=3D"bar"></span><span id=3D"knob"></span><!--_ht=
+ml_template_end_--></template></cr-toggle>
+  </div>
+  <a class=3D"learn-more-button" href=3D"https://support.google.com/chrome/=
+?p=3Dincognito">Learn more</a>
+</div>
+
+<!-- Lazy-load cr_elements to avoid performance penalty introduced by loadi=
+ng Polymer -->
+
+
+
+
+
+<dom-module id=3D"cr-hidden-style" assetpath=3D"chrome://resources/">
+  <template>
+   =20
+  </template>
+</dom-module>
+
+<dom-module id=3D"cr-icons" assetpath=3D"chrome://resources/">
+  <template>
+   =20
+  </template>
+</dom-module>
+
+<dom-module id=3D"cr-shared-style" assetpath=3D"chrome://resources/">
+  <template>
+   =20
+  </template>
+</dom-module>
+</body></html>
+------MultipartBoundary--on9Exmvw0glVyfdQKLIqN5Mp4KIfoSsyX0jR8TA5gQ----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-3de79916-9cbf-4bb6-9720-72434963a63d@mhtml.blink
+
+@charset "utf-8";
+
+body { -webkit-font-smoothing: antialiased; font-size: 100%; margin: 0px; }
+
+[hidden] { display: none !important; }
+
+.content { color: rgb(232, 234, 237); font-size: calc(100% - 2px); line-hei=
+ght: calc(100% + 6px); min-width: 240px; }
+
+h1 { font-size: calc(100% + 8px); font-weight: 400; line-height: calc(100% =
++ 8px); }
+
+em { color: white; font-style: normal; }
+
+.learn-more-button { color: rgb(138, 180, 248); text-decoration: none; }
+
+@media (max-width: 240px), (max-height: 320px) {
+  .content { font-size: calc(100% - 4px); line-height: calc(100% + 6px); }
+  h1 { font-size: calc(100% + 4px); line-height: calc(100% + 4px); }
+}
+
+.icon { content: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwIiBoZWl=
+naHQ9IjEyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJub2=
+5lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0wIDBoMTIwdjEyMEgweiIvPjxwYXRoI=
+GQ9Ik02MCAwYzMzLjEzNyAwIDYwIDI2Ljg2MyA2MCA2MHMtMjYuODYzIDYwLTYwIDYwUzAgOTMu=
+MTM3IDAgNjAgMjYuODYzIDAgNjAgMHptMTcuNSA2NC44MzdjLTYuNDU2IDAtMTEuODIyIDQuNTA=
+yLTEzLjIyMiAxMC41MTYtMy4yNjctMS4zOTctNi4zLTEuMDA5LTguNTU2LS4wMzlDNTQuMjgzID=
+Y5LjMgNDguOTE3IDY0LjgzNyA0Mi41IDY0LjgzN2MtNy41MDYgMC0xMy42MTEgNi4wOTItMTMuN=
+jExIDEzLjU4MkMyOC44ODkgODUuOTA4IDM0Ljk5NCA5MiA0Mi41IDkyYzcuMTU2IDAgMTIuOTUt=
+NS41MSAxMy40OTQtMTIuNDk1IDEuMTY3LS44MTUgNC4yNC0yLjMyOCA4LjAxMi4wNzhDNjQuNjI=
+4IDg2LjUyOSA3MC4zODMgOTIgNzcuNSA5MmM3LjUwNiAwIDEzLjYxMS02LjA5MiAxMy42MTEtMT=
+MuNTgxIDAtNy40OS02LjEwNS0xMy41ODItMTMuNjExLTEzLjU4MnptLTM1IDMuODhjNS4zNjcgM=
+CA5LjcyMiA0LjM0NyA5LjcyMiA5LjcwMiAwIDUuMzU1LTQuMzU1IDkuNy05LjcyMiA5LjctNS4z=
+NjcgMC05LjcyMi00LjM0NS05LjcyMi05LjcgMC01LjM1NSA0LjM1NS05LjcwMSA5LjcyMi05Ljc=
+wMXptMzUgMGM1LjM2NyAwIDkuNzIyIDQuMzQ3IDkuNzIyIDkuNzAyIDAgNS4zNTUtNC4zNTUgOS=
+43LTkuNzIyIDkuNy01LjM2NyAwLTkuNzIyLTQuMzQ1LTkuNzIyLTkuNyAwLTUuMzU1IDQuMzU1L=
+TkuNzAxIDkuNzIyLTkuNzAxek05NSA1N0gyNXY0aDcwdi00ek03Mi44NzQgMjkuMzRjLS44LTEu=
+ODItMi44NjYtMi43OC00Ljc4NS0yLjE0M0w2MCAyOS45MTRsLTguMTI4LTIuNzE3LS4xOTItLjA=
+1OGMtMS45MjgtLjUzMy0zLjk1NC41MS00LjY2OSAyLjM4N0wzOC4xNDQgNTNoNDMuNzEyTDcyLj=
+k1IDI5LjUyNnoiIGZpbGw9IiNEQURDRTAiLz48L2c+PC9zdmc+"); height: 120px; width:=
+ 120px; }
+
+@media (max-height: 480px), (max-width: 720px) {
+  .icon { height: 72px; width: 72px; }
+}
+
+@media (max-width: 720px) {
+  @media (max-width: 240px), (max-height: 480px) {
+  .icon { height: 48px; width: 48px; }
+}
+}
+
+.content > .learn-more-button { display: none; }
+
+@media (max-width: 720px) {
+  #subtitle > .learn-more-button { display: none; }
+  .content > .learn-more-button { display: block; }
+}
+
+#cookie-controls { align-items: center; background-color: rgb(60, 64, 67); =
+border-radius: 4px; box-sizing: border-box; display: flex; padding: 12px 20=
+px; }
+
+#cookie-controls-description { flex: 1 1 0%; padding-inline-end: 12px; }
+
+#cookie-controls-description em { display: block; }
+
+#cookie-controls-toggle, #cookie-controls-tooltip-icon { flex: 0 0 auto; }
+
+#cookie-controls-toggle:not(:defined) { width: 34px; }
+
+#cookie-controls-tooltip-icon { margin-inline-end: 24px; }
+
+#cookie-controls-tooltip-icon:not(:defined) { width: 20px; }
+
+.content { margin-inline: auto; max-width: 600px; }
+
+.icon { margin-inline: auto; }
+
+h1 { text-align: center; }
+
+#bulletpoints-wrapper { display: flex; flex-wrap: wrap; justify-content: sp=
+ace-between; }
+
+.bulletpoints { flex: 1 0 285px; }
+
+.bulletpoints.first { margin-inline-end: 30px; }
+
+@media (max-width: 720px) {
+  .content { text-align: start; max-width: 600px !important; }
+  .icon { margin-inline-start: 0px; }
+  h1 { text-align: start; }
+}
+
+.bulletpoints ul { margin: 4px 0px 0px; padding-inline-start: 16px; }
+
+@media (min-width: 720px) {
+  .icon, h1, #subtitle, .learn-more-button { margin-top: 1.5rem; }
+  .icon, h1, #subtitle, .bulletpoints, #cookie-controls { margin-bottom: 1.=
+5rem; }
+  .content { margin-top: 40px; min-width: 240px; padding: 8px 48px 24px; }
+  @media (max-height: 480px) {
+  html, body, .content { height: 100%; }
+  .content { margin-bottom: 0px; margin-top: 0px; padding-bottom: 0px; padd=
+ing-top: 0px; }
+  .icon { margin-top: 0px; padding-top: 32px; }
+}
+  @media (max-height: 320px) {
+  h1, #subtitle { margin-bottom: 16px; margin-top: 16px; }
+  .learn-more-button, .bulletpoints, .icon, #cookie-controls { margin-botto=
+m: 16px; }
+}
+}
+
+@media (max-width: 720px) {
+  .content { min-width: 176px; padding: 72px 32px; }
+  .icon, h1, #subtitle { margin-bottom: 1.5rem; margin-top: 1.5rem; }
+  .bulletpoints, .learn-more-button, #cookie-controls { margin-bottom: 1.5r=
+em; }
+  @media (max-height: 600px) {
+  .content { padding-top: 48px; }
+  .icon, h1, #subtitle { margin-bottom: 1rem; margin-top: 1rem; }
+  .bulletpoints, .learn-more-button, #cookie-controls { margin-bottom: 1rem=
+; }
+}
+  @media (max-height: 480px) {
+  .content { padding-top: 32px; }
+}
+  .icon { margin-top: 0px; }
+  .learn-more-button { margin-bottom: 0px; }
+}
+
+@media (max-width: 240px) {
+  .content { min-width: 192px; padding-inline: 24px; }
+}
+------MultipartBoundary--on9Exmvw0glVyfdQKLIqN5Mp4KIfoSsyX0jR8TA5gQ----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-8ce89773-7b0e-4dd6-9a86-6e2d42bb1684@mhtml.blink
+
+@charset "utf-8";
+
+html { --google-red-100-rgb: 244, 199, 195; --google-red-100: rgb(var(--goo=
+gle-red-100-rgb)); --google-red-300-rgb: 230, 124, 115; --google-red-300: r=
+gb(var(--google-red-300-rgb)); --google-red-500-rgb: 219, 68, 55; --google-=
+red-500: rgb(var(--google-red-500-rgb)); --google-red-700-rgb: 197, 57, 41;=
+ --google-red-700: rgb(var(--google-red-700-rgb)); --google-blue-100-rgb: 1=
+98, 218, 252; --google-blue-100: rgb(var(--google-blue-100-rgb)); --google-=
+blue-300-rgb: 123, 170, 247; --google-blue-300: rgb(var(--google-blue-300-r=
+gb)); --google-blue-500-rgb: 66, 133, 244; --google-blue-500: rgb(var(--goo=
+gle-blue-500-rgb)); --google-blue-700-rgb: 51, 103, 214; --google-blue-700:=
+ rgb(var(--google-blue-700-rgb)); --google-green-100-rgb: 183, 225, 205; --=
+google-green-100: rgb(var(--google-green-100-rgb)); --google-green-300-rgb:=
+ 87, 187, 138; --google-green-300: rgb(var(--google-green-300-rgb)); --goog=
+le-green-500-rgb: 15, 157, 88; --google-green-500: rgb(var(--google-green-5=
+00-rgb)); --google-green-700-rgb: 11, 128, 67; --google-green-700: rgb(var(=
+--google-green-700-rgb)); --google-yellow-100-rgb: 252, 232, 178; --google-=
+yellow-100: rgb(var(--google-yellow-100-rgb)); --google-yellow-300-rgb: 247=
+, 203, 77; --google-yellow-300: rgb(var(--google-yellow-300-rgb)); --google=
+-yellow-500-rgb: 244, 180, 0; --google-yellow-500: rgb(var(--google-yellow-=
+500-rgb)); --google-yellow-700-rgb: 240, 147, 0; --google-yellow-700: rgb(v=
+ar(--google-yellow-700-rgb)); --google-grey-100-rgb: 245, 245, 245; --googl=
+e-grey-100: rgb(var(--google-grey-100-rgb)); --google-grey-300-rgb: 224, 22=
+4, 224; --google-grey-300: rgb(var(--google-grey-300-rgb)); --google-grey-5=
+00-rgb: 158, 158, 158; --google-grey-500: rgb(var(--google-grey-500-rgb)); =
+--google-grey-700-rgb: 97, 97, 97; --google-grey-700: rgb(var(--google-grey=
+-700-rgb)); --paper-red-50: #ffebee; --paper-red-100: #ffcdd2; --paper-red-=
+200: #ef9a9a; --paper-red-300: #e57373; --paper-red-400: #ef5350; --paper-r=
+ed-500: #f44336; --paper-red-600: #e53935; --paper-red-700: #d32f2f; --pape=
+r-red-800: #c62828; --paper-red-900: #b71c1c; --paper-red-a100: #ff8a80; --=
+paper-red-a200: #ff5252; --paper-red-a400: #ff1744; --paper-red-a700: #d500=
+00; --paper-light-blue-50: #e1f5fe; --paper-light-blue-100: #b3e5fc; --pape=
+r-light-blue-200: #81d4fa; --paper-light-blue-300: #4fc3f7; --paper-light-b=
+lue-400: #29b6f6; --paper-light-blue-500: #03a9f4; --paper-light-blue-600: =
+#039be5; --paper-light-blue-700: #0288d1; --paper-light-blue-800: #0277bd; =
+--paper-light-blue-900: #01579b; --paper-light-blue-a100: #80d8ff; --paper-=
+light-blue-a200: #40c4ff; --paper-light-blue-a400: #00b0ff; --paper-light-b=
+lue-a700: #0091ea; --paper-yellow-50: #fffde7; --paper-yellow-100: #fff9c4;=
+ --paper-yellow-200: #fff59d; --paper-yellow-300: #fff176; --paper-yellow-4=
+00: #ffee58; --paper-yellow-500: #ffeb3b; --paper-yellow-600: #fdd835; --pa=
+per-yellow-700: #fbc02d; --paper-yellow-800: #f9a825; --paper-yellow-900: #=
+f57f17; --paper-yellow-a100: #ffff8d; --paper-yellow-a200: #ffff00; --paper=
+-yellow-a400: #ffea00; --paper-yellow-a700: #ffd600; --paper-orange-50: #ff=
+f3e0; --paper-orange-100: #ffe0b2; --paper-orange-200: #ffcc80; --paper-ora=
+nge-300: #ffb74d; --paper-orange-400: #ffa726; --paper-orange-500: #ff9800;=
+ --paper-orange-600: #fb8c00; --paper-orange-700: #f57c00; --paper-orange-8=
+00: #ef6c00; --paper-orange-900: #e65100; --paper-orange-a100: #ffd180; --p=
+aper-orange-a200: #ffab40; --paper-orange-a400: #ff9100; --paper-orange-a70=
+0: #ff6500; --paper-grey-50: #fafafa; --paper-grey-100: #f5f5f5; --paper-gr=
+ey-200: #eeeeee; --paper-grey-300: #e0e0e0; --paper-grey-400: #bdbdbd; --pa=
+per-grey-500: #9e9e9e; --paper-grey-600: #757575; --paper-grey-700: #616161=
+; --paper-grey-800: #424242; --paper-grey-900: #212121; --paper-blue-grey-5=
+0: #eceff1; --paper-blue-grey-100: #cfd8dc; --paper-blue-grey-200: #b0bec5;=
+ --paper-blue-grey-300: #90a4ae; --paper-blue-grey-400: #78909c; --paper-bl=
+ue-grey-500: #607d8b; --paper-blue-grey-600: #546e7a; --paper-blue-grey-700=
+: #455a64; --paper-blue-grey-800: #37474f; --paper-blue-grey-900: #263238; =
+--dark-divider-opacity: 0.12; --dark-disabled-opacity: 0.38; --dark-seconda=
+ry-opacity: 0.54; --dark-primary-opacity: 0.87; --light-divider-opacity: 0.=
+12; --light-disabled-opacity: 0.3; --light-secondary-opacity: 0.7; --light-=
+primary-opacity: 1; }
+------MultipartBoundary--on9Exmvw0glVyfdQKLIqN5Mp4KIfoSsyX0jR8TA5gQ----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-24e78a1b-4f52-4244-a9c2-4eb33e27b16d@mhtml.blink
+
+@charset "utf-8";
+
+html { --google-blue-50-rgb: 232, 240, 254; --google-blue-50: rgb(var(--goo=
+gle-blue-50-rgb)); --google-blue-100-rgb: 210, 227, 252; --google-blue-100:=
+ rgb(var(--google-blue-100-rgb)); --google-blue-200-rgb: 174, 203, 250; --g=
+oogle-blue-200: rgb(var(--google-blue-200-rgb)); --google-blue-300-rgb: 138=
+, 180, 248; --google-blue-300: rgb(var(--google-blue-300-rgb)); --google-bl=
+ue-400-rgb: 102, 157, 246; --google-blue-400: rgb(var(--google-blue-400-rgb=
+)); --google-blue-500-rgb: 66, 133, 244; --google-blue-500: rgb(var(--googl=
+e-blue-500-rgb)); --google-blue-600-rgb: 26, 115, 232; --google-blue-600: r=
+gb(var(--google-blue-600-rgb)); --google-blue-700-rgb: 25, 103, 210; --goog=
+le-blue-700: rgb(var(--google-blue-700-rgb)); --google-green-50-rgb: 230, 2=
+44, 234; --google-green-50: rgb(var(--google-green-50-rgb)); --google-green=
+-300-rgb: 129, 201, 149; --google-green-300: rgb(var(--google-green-300-rgb=
+)); --google-green-400-rgb: 91, 185, 116; --google-green-400: rgb(var(--goo=
+gle-green-400-rgb)); --google-green-500-rgb: 52, 168, 83; --google-green-50=
+0: rgb(var(--google-green-500-rgb)); --google-green-600-rgb: 30, 142, 62; -=
+-google-green-600: rgb(var(--google-green-600-rgb)); --google-green-700-rgb=
+: 24, 128, 56; --google-green-700: rgb(var(--google-green-700-rgb)); --goog=
+le-grey-50-rgb: 248, 249, 250; --google-grey-50: rgb(var(--google-grey-50-r=
+gb)); --google-grey-100-rgb: 241, 243, 244; --google-grey-100: rgb(var(--go=
+ogle-grey-100-rgb)); --google-grey-200-rgb: 232, 234, 237; --google-grey-20=
+0: rgb(var(--google-grey-200-rgb)); --google-grey-300-rgb: 218, 220, 224; -=
+-google-grey-300: rgb(var(--google-grey-300-rgb)); --google-grey-400-rgb: 1=
+89, 193, 198; --google-grey-400: rgb(var(--google-grey-400-rgb)); --google-=
+grey-500-rgb: 154, 160, 166; --google-grey-500: rgb(var(--google-grey-500-r=
+gb)); --google-grey-600-rgb: 128, 134, 139; --google-grey-600: rgb(var(--go=
+ogle-grey-600-rgb)); --google-grey-700-rgb: 95, 99, 104; --google-grey-700:=
+ rgb(var(--google-grey-700-rgb)); --google-grey-800-rgb: 60, 64, 67; --goog=
+le-grey-800: rgb(var(--google-grey-800-rgb)); --google-grey-900-rgb: 32, 33=
+, 36; --google-grey-900: rgb(var(--google-grey-900-rgb)); --google-grey-900=
+-white-4-percent: #292a2d; --google-red-300-rgb: 242, 139, 130; --google-re=
+d-300: rgb(var(--google-red-300-rgb)); --google-red-500-rgb: 234, 67, 53; -=
+-google-red-500: rgb(var(--google-red-500-rgb)); --google-red-600-rgb: 217,=
+ 48, 37; --google-red-600: rgb(var(--google-red-600-rgb)); --google-yellow-=
+50-rgb: 254, 247, 224; --google-yellow-50: rgb(var(--google-yellow-50-rgb))=
+; --google-yellow-300-rgb: 253, 214, 51; --google-yellow-300: rgb(var(--goo=
+gle-yellow-300-rgb)); --google-yellow-400-rgb: 252, 201, 52; --google-yello=
+w-400: rgb(var(--google-yellow-400-rgb)); --google-yellow-500-rgb: 251, 188=
+, 4; --google-yellow-500: rgb(var(--google-yellow-500-rgb)); --cr-primary-t=
+ext-color: var(--google-grey-900); --cr-secondary-text-color: var(--google-=
+grey-700); --cr-card-background-color: white; --cr-card-shadow-color-rgb: v=
+ar(--google-grey-800-rgb); --cr-elevation-1: rgba(var(--cr-card-shadow-colo=
+r-rgb), 0.3) 0 1px 2px 0, rgba(var(--cr-card-shadow-color-rgb), 0.15) 0 1px=
+ 3px 1px; --cr-elevation-2: rgba(var(--cr-card-shadow-color-rgb), 0.3) 0 1p=
+x 2px 0, rgba(var(--cr-card-shadow-color-rgb), 0.15) 0 2px 6px 2px; --cr-el=
+evation-3: rgba(var(--cr-card-shadow-color-rgb), 0.3) 0 1px 3px 0, rgba(var=
+(--cr-card-shadow-color-rgb), 0.15) 0 4px 8px 3px; --cr-elevation-4: rgba(v=
+ar(--cr-card-shadow-color-rgb), 0.3) 0 2px 3px 0, rgba(var(--cr-card-shadow=
+-color-rgb), 0.15) 0 6px 10px 4px; --cr-elevation-5: rgba(var(--cr-card-sha=
+dow-color-rgb), 0.3) 0 4px 4px 0, rgba(var(--cr-card-shadow-color-rgb), 0.1=
+5) 0 8px 12px 6px; --cr-card-shadow: var(--cr-elevation-2); --cr-checked-co=
+lor: var(--google-blue-600); --cr-focused-item-color: var(--google-grey-300=
+); --cr-form-field-label-color: var(--google-grey-700); --cr-hairline-rgb: =
+0, 0, 0; --cr-iph-anchor-highlight-color: rgba(var(--google-blue-600-rgb), =
+0.1); --cr-link-color: var(--google-blue-700); --cr-menu-background-color: =
+white; --cr-menu-background-focus-color: var(--google-grey-400); --cr-menu-=
+shadow: 0 2px 6px var(--paper-grey-500); --cr-separator-color: rgba(0, 0, 0=
+, 0.06); --cr-title-text-color: rgb(90, 90, 90); --cr-toolbar-background-co=
+lor: white; --cr-hover-background-color: rgba(var(--google-grey-900-rgb), 0=
+.1); --cr-active-background-color: rgba(var(--google-grey-900-rgb), 0.16); =
+--cr-focus-outline-color: rgba(var(--google-blue-600-rgb), 0.4); }
+
+@media (prefers-color-scheme: dark) {
+  html { --cr-primary-text-color: var(--google-grey-200); --cr-secondary-te=
+xt-color: var(--google-grey-500); --cr-card-background-color: var(--google-=
+grey-900-white-4-percent); --cr-card-shadow-color-rgb: 0, 0, 0; --cr-checke=
+d-color: var(--google-blue-300); --cr-focused-item-color: var(--google-grey=
+-800); --cr-form-field-label-color: var(--dark-secondary-color); --cr-hairl=
+ine-rgb: 255, 255, 255; --cr-iph-anchor-highlight-color: rgba(var(--google-=
+grey-100-rgb), 0.1); --cr-link-color: var(--google-blue-300); --cr-menu-bac=
+kground-color: var(--google-grey-900); --cr-menu-background-focus-color: va=
+r(--google-grey-700); --cr-menu-background-sheen: rgba(255, 255, 255, 0.06)=
+; --cr-menu-shadow: rgba(0, 0, 0, 0.3) 0 1px 2px 0, rgba(0, 0, 0, 0.15) 0 3=
+px 6px 2px; --cr-separator-color: rgba(255, 255, 255, 0.1); --cr-title-text=
+-color: var(--cr-primary-text-color); --cr-toolbar-background-color: var(--=
+google-grey-900-white-4-percent); --cr-hover-background-color: rgba(255, 25=
+5, 255, 0.1); --cr-active-background-color: rgba(var(--google-grey-200-rgb)=
+, 0.16); --cr-focus-outline-color: rgba(var(--google-blue-300-rgb), 0.4); }
+}
+
+html { --cr-button-edge-spacing: 12px; --cr-button-height: 32px; --cr-contr=
+olled-by-spacing: 24px; --cr-default-input-max-width: 264px; --cr-icon-ripp=
+le-size: 36px; --cr-icon-ripple-padding: 8px; --cr-icon-size: 20px; --cr-ic=
+on-button-margin-start: 16px; --cr-icon-ripple-margin: calc(var(--cr-icon-r=
+ipple-padding) * -1); --cr-section-min-height: 48px; --cr-section-two-line-=
+min-height: 64px; --cr-section-padding: 20px; --cr-section-vertical-padding=
+: 12px; --cr-section-indent-width: 40px; --cr-section-indent-padding: calc(=
+ var(--cr-section-padding) + var(--cr-section-indent-width)); --cr-section-=
+vertical-margin: 21px; --cr-centered-card-max-width: 680px; --cr-centered-c=
+ard-width-percentage: 0.96; --cr-hairline: 1px solid rgba(var(--cr-hairline=
+-rgb), 0.14); --cr-separator-height: 1px; --cr-separator-line: var(--cr-sep=
+arator-height) solid var(--cr-separator-color); --cr-toolbar-overlay-animat=
+ion-duration: 150ms; --cr-toolbar-height: 56px; --cr-container-shadow-heigh=
+t: 6px; --cr-container-shadow-margin: calc(-1 * var(--cr-container-shadow-h=
+eight)); --cr-container-shadow-max-opacity: 1; --cr-card-border-radius: 8px=
+; --cr-disabled-opacity: 0.38; --cr-form-field-bottom-spacing: 16px; --cr-f=
+orm-field-label-font-size: 0.625rem; --cr-form-field-label-height: 1em; --c=
+r-form-field-label-line-height: 1em; }
+------MultipartBoundary--on9Exmvw0glVyfdQKLIqN5Mp4KIfoSsyX0jR8TA5gQ----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome://theme/css/incognito_tab_theme.css?1662154806590
+
+@charset "utf-8";
+
+html { background-attachment: fixed; background-color: rgb(53, 54, 58); bac=
+kground-position: -64px center; background-repeat: no-repeat; height: 100%;=
+ overflow: auto; }
+
+html[hascustombackground=3D"true"] { background-image: -webkit-image-set(ur=
+l("chrome://theme/IDR_THEME_NTP_BACKGROUND?") 1x, url("chrome://theme/IDR_T=
+HEME_NTP_BACKGROUND@2x?") 2x); }
+
+#attribution-img { content: -webkit-image-set(url("chrome://theme/IDR_THEME=
+_NTP_ATTRIBUTION?") 1x, url("chrome://theme/IDR_THEME_NTP_ATTRIBUTION@2x?")=
+ 2x); }
+------MultipartBoundary--on9Exmvw0glVyfdQKLIqN5Mp4KIfoSsyX0jR8TA5gQ----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome://resources/css/text_defaults_md.css
+
+@charset "utf-8";
+
+@import url("chrome://resources/css/roboto.css");
+
+body { font-family: Roboto, system-ui, sans-serif; font-size: 81.25%; }
+
+button { font-family: Roboto, system-ui, sans-serif; }
+------MultipartBoundary--on9Exmvw0glVyfdQKLIqN5Mp4KIfoSsyX0jR8TA5gQ----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome://resources/css/roboto.css
+
+@charset "utf-8";
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; src=
+: local("Roboto"), local("Roboto-Regular"), url("chrome://resources/roboto/=
+roboto-regular.woff2") format("woff2"); }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; src=
+: local("Roboto Medium"), local("Roboto-Medium"), url("chrome://resources/r=
+oboto/roboto-medium.woff2") format("woff2"); }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; src=
+: local("Roboto Bold"), local("Roboto-Bold"), url("chrome://resources/robot=
+o/roboto-bold.woff2") format("woff2"); }
+------MultipartBoundary--on9Exmvw0glVyfdQKLIqN5Mp4KIfoSsyX0jR8TA5gQ------
